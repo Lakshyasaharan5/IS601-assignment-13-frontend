@@ -6,9 +6,9 @@ User authentication frontend
 
 <img src="screenshots/app1.png" width="80%">
 
-<img src="screenshots/app2.png" width="80%">
+<img src="screenshots/register.png" width="80%">
 
-<img src="screenshots/app3.png" width="80%">
+<img src="screenshots/login.png" width="80%">
 
 
 ## Github Workflow Action Pipeline
